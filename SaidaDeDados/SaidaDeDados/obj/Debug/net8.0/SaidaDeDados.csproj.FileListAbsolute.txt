@@ -1,0 +1,15 @@
+C:\temp\course-csharp\SaidaDeDados\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.exe
+C:\temp\course-csharp\SaidaDeDados\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.deps.json
+C:\temp\course-csharp\SaidaDeDados\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.runtimeconfig.json
+C:\temp\course-csharp\SaidaDeDados\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.dll
+C:\temp\course-csharp\SaidaDeDados\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.pdb
+C:\temp\course-csharp\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\course-csharp\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.AssemblyInfoInputs.cache
+C:\temp\course-csharp\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.AssemblyInfo.cs
+C:\temp\course-csharp\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\temp\course-csharp\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.sourcelink.json
+C:\temp\course-csharp\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.dll
+C:\temp\course-csharp\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\refint\SaidaDeDados.dll
+C:\temp\course-csharp\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.pdb
+C:\temp\course-csharp\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.genruntimeconfig.cache
+C:\temp\course-csharp\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\ref\SaidaDeDados.dll
