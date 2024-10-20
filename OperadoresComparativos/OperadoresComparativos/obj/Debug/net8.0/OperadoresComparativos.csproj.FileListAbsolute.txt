@@ -1,0 +1,15 @@
+C:\temp\course-csharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.exe
+C:\temp\course-csharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.deps.json
+C:\temp\course-csharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.runtimeconfig.json
+C:\temp\course-csharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.dll
+C:\temp\course-csharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.pdb
+C:\temp\course-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\course-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.AssemblyInfoInputs.cache
+C:\temp\course-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.AssemblyInfo.cs
+C:\temp\course-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.csproj.CoreCompileInputs.cache
+C:\temp\course-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.sourcelink.json
+C:\temp\course-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.dll
+C:\temp\course-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\refint\OperadoresComparativos.dll
+C:\temp\course-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.pdb
+C:\temp\course-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.genruntimeconfig.cache
+C:\temp\course-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\ref\OperadoresComparativos.dll
