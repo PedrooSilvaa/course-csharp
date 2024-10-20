@@ -1,0 +1,15 @@
+C:\temp\course-csharp\EntradaDados2\EntradaDados2\bin\Debug\net8.0\EntradaDados2.exe
+C:\temp\course-csharp\EntradaDados2\EntradaDados2\bin\Debug\net8.0\EntradaDados2.deps.json
+C:\temp\course-csharp\EntradaDados2\EntradaDados2\bin\Debug\net8.0\EntradaDados2.runtimeconfig.json
+C:\temp\course-csharp\EntradaDados2\EntradaDados2\bin\Debug\net8.0\EntradaDados2.dll
+C:\temp\course-csharp\EntradaDados2\EntradaDados2\bin\Debug\net8.0\EntradaDados2.pdb
+C:\temp\course-csharp\EntradaDados2\EntradaDados2\obj\Debug\net8.0\EntradaDados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\course-csharp\EntradaDados2\EntradaDados2\obj\Debug\net8.0\EntradaDados2.AssemblyInfoInputs.cache
+C:\temp\course-csharp\EntradaDados2\EntradaDados2\obj\Debug\net8.0\EntradaDados2.AssemblyInfo.cs
+C:\temp\course-csharp\EntradaDados2\EntradaDados2\obj\Debug\net8.0\EntradaDados2.csproj.CoreCompileInputs.cache
+C:\temp\course-csharp\EntradaDados2\EntradaDados2\obj\Debug\net8.0\EntradaDados2.sourcelink.json
+C:\temp\course-csharp\EntradaDados2\EntradaDados2\obj\Debug\net8.0\EntradaDados2.dll
+C:\temp\course-csharp\EntradaDados2\EntradaDados2\obj\Debug\net8.0\refint\EntradaDados2.dll
+C:\temp\course-csharp\EntradaDados2\EntradaDados2\obj\Debug\net8.0\EntradaDados2.pdb
+C:\temp\course-csharp\EntradaDados2\EntradaDados2\obj\Debug\net8.0\EntradaDados2.genruntimeconfig.cache
+C:\temp\course-csharp\EntradaDados2\EntradaDados2\obj\Debug\net8.0\ref\EntradaDados2.dll
