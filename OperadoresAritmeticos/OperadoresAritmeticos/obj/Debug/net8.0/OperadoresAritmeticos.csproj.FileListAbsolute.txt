@@ -1,0 +1,15 @@
+C:\temp\course-csharp\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.exe
+C:\temp\course-csharp\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.deps.json
+C:\temp\course-csharp\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.runtimeconfig.json
+C:\temp\course-csharp\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.dll
+C:\temp\course-csharp\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.pdb
+C:\temp\course-csharp\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\course-csharp\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\temp\course-csharp\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.AssemblyInfo.cs
+C:\temp\course-csharp\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\temp\course-csharp\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.sourcelink.json
+C:\temp\course-csharp\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.dll
+C:\temp\course-csharp\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\refint\OperadoresAritmeticos.dll
+C:\temp\course-csharp\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.pdb
+C:\temp\course-csharp\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.genruntimeconfig.cache
+C:\temp\course-csharp\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\net8.0\ref\OperadoresAritmeticos.dll
